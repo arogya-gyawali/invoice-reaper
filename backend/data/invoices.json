@@ -1,0 +1,26 @@
+[
+  {
+    "invoice_id": "INV001",
+    "client": "Acme Construction LLC",
+    "email": "billing@acmecon.com",
+    "amount": 17500,
+    "due_date": "2025-09-12",
+    "days_overdue": 49
+  },
+  {
+    "invoice_id": "INV002",
+    "client": "Luna Design Studio",
+    "email": "accounts@lunadesign.com",
+    "amount": 2400,
+    "due_date": "2025-10-10",
+    "days_overdue": 21
+  },
+  {
+    "invoice_id": "INV003",
+    "client": "BrightPath Tutors",
+    "email": "finance@brightpath.org",
+    "amount": 820,
+    "due_date": "2025-10-01",
+    "days_overdue": 30
+  }
+]
